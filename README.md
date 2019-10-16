@@ -1,0 +1,2 @@
+# Aggregator
+Vacancies aggregator
